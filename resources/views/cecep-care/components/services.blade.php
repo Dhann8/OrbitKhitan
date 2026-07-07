@@ -36,7 +36,7 @@
                         <li class="flex items-center gap-3 text-sm text-slate-600 font-semibold"><span class="w-2 h-2 rounded-full bg-brand-blue shrink-0"></span>Pemulihan lebih cepat</li>
                         <li class="flex items-center gap-3 text-sm text-slate-600 font-semibold"><span class="w-2 h-2 rounded-full bg-brand-blue shrink-0"></span>Ramah anak &amp; nyaman</li>
                     </ul>
-                    <a href="https://wa.me/6281234567890" class="inline-flex items-center gap-2 text-sm font-bold text-brand-blue hover:gap-3 transition-all">
+                    <a href="{{ route('orbit-khitan') }}" class="inline-flex items-center gap-2 text-sm font-bold text-brand-blue hover:gap-3 transition-all">
                         Pelajari Selengkapnya <i class="fas fa-arrow-right text-xs"></i>
                     </a>
                 </div>

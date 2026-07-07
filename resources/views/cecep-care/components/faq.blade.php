@@ -10,7 +10,7 @@
                 Pertanyaan <span class="text-brand-blue">Umum</span>
             </h2>
             <p class="text-slate-500 max-w-xl mx-auto">Jawaban untuk pertanyaan yang sering ditanyakan oleh pasien dan keluarga.</p>
-            <div class="w-12 h-1 bg-linear-to-r from-navy to-brand-blue rounded-full mx-auto mt-5"></div>
+            <div class="w-12 h-1 bg-gradient-to-r from-navy to-brand-blue rounded-full mx-auto mt-5"></div>
         </div>
 
         {{-- Accordion --}}

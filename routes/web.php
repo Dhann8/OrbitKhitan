@@ -7,4 +7,4 @@ Route::get('/', function () {
 });
 Route::get('/orbit-khitan', function () {
     return view('orbit-khitan.index');
-});
+})->name('orbit-khitan');

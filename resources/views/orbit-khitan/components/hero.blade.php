@@ -1,4 +1,4 @@
-<section id="hero" class="relative min-h-screen flex items-center overflow-hidden">
+<section id="hero" class="relative min-h-screen flex items-center overflow-hidden ">
     <img src="https://images.unsplash.com/photo-1565538810643-b5bdb714032a?auto=format&fit=crop&q=85&w=1600" alt="Anak tersenyum setelah khitan" class="absolute inset-0 w-full h-full object-cover z-0">
     <div class="hero-ov absolute inset-0 z-10"></div>
     <div class="absolute -top-24 right-[8%] w-[400px] h-[400px] rounded-full bg-brand-blue/10 z-10 pointer-events-none"></div>
